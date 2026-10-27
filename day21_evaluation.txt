@@ -1,0 +1,20 @@
+DAY 21 - UNSCRIPTED SPEAKING EVALUATION
+=============================================
+
+Topic: Describe your favorite place.
+Provider: Groq
+Model: whisper-large-v3-turbo
+Audio file: day21_speaking.wav
+Word count: 117
+Transcription status: Successful
+Timestamp: 2026-10-27T12:24:52.895981
+
+TRANSCRIPT
+---------------------------------------------
+My favorite place is Mared Mildi, a beautiful forest area in Nandar Pradesh. It is famous for its green forest, waterfalls, fresh air and natural, beautiful. I love visiting the place because it makes me feel peaceful and relaxed. The sounds of birds, the cool breeze and the beautiful scenery help me to forget my stress and enjoy nature. I also love the local food especially bamboo chicken I usually prefer visit the place with my friends or family for me my real is just not like a tourist place it's a place when I can refresh my mind and feel happy this is my mind will is my favorite place Thank you. Thank you. Thank you.
+
+FLUENCY EVALUATION
+---------------------------------------------
+Native Azure fluency scores: Not available.
+This implementation provides speech transcription and word count only.
+Prosody, rhythm, and pronunciation are not directly scored by this implementation.
